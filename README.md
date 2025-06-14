@@ -30,7 +30,7 @@
 | 5528413        | Volkov Roman Sergeevich                    |
 | 552801-5851    | Paramonov Roman Alekseevich (**CEO**)      |
 | 552800-5850    | Masovskiy International Organization (MIO) |
-| 552801-5851    | Baiderov Arsenii Dmitrievich               |
+| 5528792        | Baiderov Arsenii Dmitrievich               |
 
 ---
 
