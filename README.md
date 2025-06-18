@@ -1,6 +1,6 @@
 # ✅ Valid Agent Certificates / Действующие сертификаты агентов
 
-**Last Update / Дата обновления:** 17.06.2025  
+**Last Update / Дата обновления:** 18.06.2025  
 **Note / Примечание:**  
 - MIO ID always starts with `5528`  
 - MIO ID всегда начинается с `5528`  
