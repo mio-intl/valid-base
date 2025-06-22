@@ -1,8 +1,11 @@
 # ✅ Valid Agent Certificates / Действующие сертификаты агентов
 
 **Last Update / Дата обновления:** 22.06.2025  
+---
 **MIO Website / Сайт MIO:** https://mio-intl.github.io/
+-------
 **MIO TrustPackage / Пакет Доверия MIO:** https://github.com/mio-intl/trustpackage
+------------
 
 **Note / Примечание:**  
 - MIO ID always starts with `5528`  
