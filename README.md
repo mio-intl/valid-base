@@ -1,6 +1,6 @@
 # ✅ Valid Agent Certificates / Действующие сертификаты агентов
 
-**Last Update / Дата обновления:** 24.06.2025  
+**Last Update / Дата обновления:** 26.06.2025  
 ---
 **MIO Website / Сайт MIO:** https://mio-intl.github.io/
 -------
