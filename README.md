@@ -1,6 +1,6 @@
 # ✅ Valid Agent Certificates / Действующие сертификаты агентов
 
-**Last Update / Дата обновления:** 28.06.2025  
+**Last Update / Дата обновления:** 30.06.2025  
 ---
 **MIO Website / Сайт MIO:** https://mio-intl.github.io/
 -------
@@ -12,6 +12,8 @@
 - MIO ID всегда начинается с `5528`  
 - 📎 Scan QR to retrieve & verify agent ID  
 - 📎 Сканируйте QR-код со штампа для проверки ID
+- MIO Serial(DigitalID) always starts with `5529`
+- MIO Serial(DigitalID) всегда начинается с `5529`
 
 ---
 
@@ -37,6 +39,18 @@
 | 552801-5851    | Paramonov Roman Alekseevich (**CEO**)      |
 | 552800-5850    | Masovskiy International Organization (MIO) |
 | 5528792        | Baiderov Arsenii Dmitrievich               |
+
+---
+
+## 🗂️ DigitalID List / Список DigitalID
+| MIO Serial D.ID |
+|-----------------|
+| 5529-001        |
+| 5529-002        |
+| 5529-003        |
+| 5529-004        |
+| 5529-005        |
+| 5529-006        |
 
 ---
 
