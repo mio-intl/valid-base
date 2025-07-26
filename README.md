@@ -12,8 +12,6 @@
 - MIO ID всегда начинается с `5528`  
 - 📎 Scan QR to retrieve & verify agent ID  
 - 📎 Сканируйте QR-код со штампа для проверки ID
-- MIO Serial(DigitalID) always starts with `5529`
-- MIO Serial(DigitalID) всегда начинается с `5529`
 
 ---
 
@@ -33,12 +31,14 @@
 
 ## 🗂️ Certificate List / Список сертификатов
 
-| 🆔 MIO ID      | 👤 Full Name (ФИО)                         |
-|----------------|--------------------------------------------|
-| 5528413        | Volkov Roman Sergeevich                    |
-| 552801-5851    | Paramonov Roman Alekseevich (**CEO**)      |
-| 552800-5850    | Masovskiy International Organization (MIO) |
-| 5528792        | Baiderov Arsenii Dmitrievich               |
+| 🆔 MIO ID      | 👤 Full Name (ФИО)                            |
+|----------------|------------------------------------------------|
+| 5528413        | Volkov Roman Sergeevich                        |
+| 552801-5851    | Paramonov Roman Alekseevich (**CEO**)          |
+| 552800-5850    | Masovskiy International Organization (**MIO**) |
+| 5528792        | Baiderov Arsenii Dmitrievich                   |
+| 5528-5852      | INTL Project(**ORG**)                          |
+| 5528-5852-1    | .intlchain(**SUBORG**)                         |
 
 ---
 
