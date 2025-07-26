@@ -40,11 +40,11 @@
 
 ---
 
-| 🆔 MIO ID      | 🏛️ Organization Name                           | 📅 Status        |
-|----------------|-------------------------------------------------|------------------|
-| 552800-5850    | Masovskiy International Organization (**ORG**)  | Active           |
-| 5528-5852      | INTL Project(**ORG**)                           | Active           |
-| 5528-5852-1    | .intlchain(**SUBORG**)                          | Active           |
+| 🆔 MIO ID      | 🏛️ Legal Name                                  | 📅 Status        | 🗂️ Type                      |
+|----------------|-------------------------------------------------|------------------|------------------------------|
+| 552800-5850    | Masovskiy International Organization            | Active           | Independent Organization     |
+| 5528-5852      | INTL Project                                    | Active           | Parent Organization          |
+| 5528-5852-1    | .intlchain foundation                           | Active           | INTL Project Suborganization |
 
 ---
 
