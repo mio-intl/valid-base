@@ -9,7 +9,8 @@
 
 **Note / Примечание:**  
 - MIO ID always starts with `5528`  
-- MIO ID всегда начинается с `5528`  
+- MIO ID всегда начинается с `5528`
+-   
 - 📎 Scan QR to retrieve & verify agent ID  
 - 📎 Сканируйте QR-код со штампа для проверки ID
 
@@ -31,14 +32,19 @@
 
 ## 🗂️ Certificate List / Список сертификатов
 
-| 🆔 MIO ID      | 👤 Full Name (ФИО)                            |
-|----------------|------------------------------------------------|
-| 5528413        | Volkov Roman Sergeevich                        |
-| 552801-5851    | Paramonov Roman Alekseevich (**CEO**)          |
-| 552800-5850    | Masovskiy International Organization (**MIO**) |
-| 5528792        | Baiderov Arsenii Dmitrievich                   |
-| 5528-5852      | INTL Project(**ORG**)                          |
-| 5528-5852-1    | .intlchain(**SUBORG**)                         |
+| 🆔 MIO ID      | 👤 Full Name (ФИО)                            | 🌐 Organization                       | 📅 Status        |   
+|----------------|------------------------------------------------|---------------------------------------|------------------|
+| 5528413        | Volkov Roman Sergeevich                        | Masovskiy International Organization  | Active           |
+| 552801-5851    | Paramonov Roman Alekseevich (**CEO**)          | Masovskiy International Organization  | Active           |
+| 5528792        | Baiderov Arsenii Dmitrievich                   | Masovskiy International Organization  | Frozen           |
+
+---
+
+| 🆔 MIO ID      | 🏛️ Organization Name                           | 📅 Status        |
+|----------------|-------------------------------------------------|------------------|
+| 552800-5850    | Masovskiy International Organization (**ORG**)  | Active           |
+| 5528-5852      | INTL Project(**ORG**)                           | Active           |
+| 5528-5852-1    | .intlchain(**SUBORG**)                          | Active           |
 
 ---
 
